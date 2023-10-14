@@ -3,7 +3,7 @@
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Welcome! 👋 2
 
 Thanks for checking out this front-end coding challenge.
 
